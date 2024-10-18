@@ -1,0 +1,32 @@
+<?php
+
+// override core en language system validation or define your own en language validation message
+return [
+	'xin_admin_login' => 'Masuk dengan ',
+	'xin_ci_login_to_your_account' => 'Masuk ke akun Anda',
+	'xin_employee_password' => 'Kata sandi',
+	'xin_forgot_password_link' => 'Tidak ingat kata sandi?',
+	'xin_login_enter_password' => 'Masukkan kata kunci',
+	'xin_login' => 'Masuk',
+	'xin_login_username' => 'Username kamu',
+	'xin_login_email' => 'Email kamu',
+	'dashboard_username' => 'Username',
+	'dashboard_email' => 'Email',
+	'xin_toast_error_title' => 'Error',
+	'xin_toast_success_title' => 'Sukses',
+	'xin_processing_request' => 'Anda mengalihkan ke dasbor..',
+	'xin_login_title' => 'Log in',
+	'xin_employee_error_username' => "Bidang nama pengguna wajib diisi.",
+	'xin_employee_error_email' => "Bidang email wajib diisi.",
+	'xin_employee_error_invalid_email' => "Format email salah",
+	'xin_employee_error_password' => "Bidang kata sandi wajib diisi.",
+	'xin_min_error_password' => "Kata sandi Anda terlalu pendek, diperlukan minimal 6 karakter.",
+	'xin_error_invalid_credentials' => 'Kredensial Masuk Tidak Valid.',
+	'xin_error_account_not_active' => 'Akunmu tidak aktif.',
+	'xin_success_logged_in' => 'Berhasil Masuk.',
+	'xin_error_max_attempts' => 'Tidak. dari upaya. Coba lagi setelah satu menit.',
+	'xin_welcome_to' => 'Selamat Datang di',
+	'xin_welcome_back_please_login' => 'Selamat datang kembali, Silakan masuk ke akun',
+	'xin_verify_email_use_trial_version' => 'Harap verifikasi alamat email Anda untuk menggunakan HR System versi percobaan.',
+	'xin_login' => 'Login',
+];
