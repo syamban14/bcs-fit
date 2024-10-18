@@ -21,6 +21,3 @@ RUN chmod -R 0777 /var/www/html/writable/logs
 
 # Expose port 80 untuk server Apache
 EXPOSE 80
-
-# Jalankan Apache di container
-CMD ["apache2-foreground"]
