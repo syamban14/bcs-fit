@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "build": "chmod -R 0777 /app/writable/cache && chmod -R 0777 /app/writable/logs && composer install --no-dev"
+    }
+}
